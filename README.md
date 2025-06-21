@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Raman Choudhary!
 
-I’m a Master’s student in Business Analytics at the Carlson School of Management, University of Minnesota – Twin Cities. With 3+ years of experience in data science, machine learning, and analytics, I’ve delivered real-world impact across fintech, quick commerce, and consulting domains.
+I’m a Master’s student in Business Analytics at the Carlson School of Management, University of Minnesota – Twin Cities. With 4 years of experience in data science, machine learning, and analytics, I’ve delivered real-world impact across fintech, quick commerce, and consulting domains.
 
 Previously, I worked at AngelOne and Dunzo (backed by Google), where I built scalable ML solutions to drive fraud prevention, retention, and personalization—saving $250K+ monthly, optimizing engagement, and boosting ROI. I’m passionate about turning data into intelligent systems that improve products, reduce risk, and drive growth.
 

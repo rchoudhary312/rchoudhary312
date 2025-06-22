@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raman Choudhary 👋</h1>
 
 <p align="center">
-  <em>Data Scientist | Ex-Dunzo & AngelOne | MSBA @ Carlson School</em><br>
+  <em>Data Scientist | Ex-Dunzo & AngelOne | MSBA @ University Of Minnesota</em><br>
   <em>Building intelligent systems that power fraud detection, retention, and personalization at scale.</em>
 </p>
 
